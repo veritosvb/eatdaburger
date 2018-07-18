@@ -1,0 +1,12 @@
+
+li {
+  padding: 5px;
+  margin: 5px;
+}
+
+ul {
+  list-style-type: none;
+}
+.jumbotron{
+  background-color: #f0ba09;
+}
